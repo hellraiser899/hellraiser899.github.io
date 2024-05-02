@@ -30,7 +30,7 @@ export default defineNuxtConfig({
   },
   app: {
     head: {
-      title: 'Brandon Winger-Air | Dev Blog & Portfolio',
+      title: 'Abhishek Bidhan | Blog & Portfolio',
       meta: [
         { name: 'description', content: 'Website & Web Application development/design blog + portfolio with tools, guides, tutorial and course resources for developers' },
         { name: 'apple-mobile-web-app-status-bar-style', content: 'black-translucent' }

@@ -24,7 +24,7 @@
 
 <script setup>
 const links = [
-  { name: 'Github', href: 'https://github.com/BrandonWingerAir', icon: 'uil:github' },
+  { name: 'Github', href: 'https://github.com/hellraiser899', icon: 'uil:github' },
   { name: 'LinkedIn', href: 'https://www.linkedin.com/in/bwingerair/', icon: 'uil:linkedin' }
 ]
 </script>

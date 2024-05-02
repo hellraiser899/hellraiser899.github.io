@@ -1,7 +1,7 @@
 <template>
   <section class="grid md:grid-cols-2 mb-4 md:mb-5">
     <h1 class="text-3xl md:text-5xl mt-11 mb-4">
-      🖱️ Website Dev /
+      🖱️ 
       <span class="font-semibold">Home</span>
     </h1>
     <EstimateLinkBtn/>
