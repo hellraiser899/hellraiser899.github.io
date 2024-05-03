@@ -27,11 +27,11 @@
         <p class="dark:text-gray-300">{{ project.description }}</p>
 
         <div class="text-white dark:text-neutral-100">
-          <button class="rounded-md border-2 border-neutral-100 dark:border-0 bg-sky-500 dark:bg-sky-600 hover:bg-sky-600 dark:hover:bg-sky-500 p-2 pt-1 mt-4 mr-3">
+          <!-- <button class="rounded-md border-2 border-neutral-100 dark:border-0 bg-sky-500 dark:bg-sky-600 hover:bg-sky-600 dark:hover:bg-sky-500 p-2 pt-1 mt-4 mr-3">
             <a :href="project.homepageUrl" target="_blank">
               View Site
-            </a>
-          </button>
+            </a> -->
+          <!-- </button> -->
           <button class="rounded-md border-2 border-neutral-100 dark:border-0 bg-emerald-500 dark:bg-emerald-600 hover:bg-emerald-600 dark:hover:bg-emerald-500 p-2 pt-1">
             <a :href="project.url" target="_blank">
               View Code
