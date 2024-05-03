@@ -23,9 +23,9 @@
   </section>
   
   <section class="flex flex-col md:flex-row transparent-bg-gray dark:text-neutral-100">
-    <div class="md:w-3/4 pt-8 p-8 md:pr-2">
+    <div class="md pt-8 p-8 md:pr-2">
       <h2 class="text-2xl md:text-3xl font-bold text-center md:text-left">
-        <span class="border-gray-800 md:border-0 text-center pb-5 md:pb-0 font-semibold md:font-semibold border-b-2">About </span><span class="hidden md:inline-block font-normal">|</span> <span class="block md:inline-block mt-10 md:mt-0 font-normal">Brandon Winger-Air</span>
+        <span class="border-gray-800 md:border-0 text-center pb-5 md:pb-0 font-semibold md:font-semibold border-b-2">About </span><span class="hidden md:inline-block font-normal">|</span> <span class="block md:inline-block mt-10 md:mt-0 font-normal">Abhishek Bidhan</span>
       </h2>
 
       <hr class="mt-6 mb-4 border-gray-600">
@@ -34,9 +34,9 @@
       <AboutContactBtn/>
     </div>
 
-    <div class="w-1/2 md:max-w-sm p-0 md:p-10 self-center mx-auto mb-6 md:mt-0">
+    <!-- <div class="w-1/2 md:max-w-sm p-0 md:p-10 self-center mx-auto mb-6 md:mt-0">
       <img src="~/assets/images/Brandon_Winger-Air_logo.png" alt="" class="mx-auto my-auto">
-    </div>
+    </div> -->
   </section>
 
   <SiteBottom/>
