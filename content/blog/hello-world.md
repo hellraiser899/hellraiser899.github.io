@@ -1,7 +1,7 @@
 ---
 title: Hello, World!
 description: This is a demo blog post with examples of Markdown file syntax.
-date: 2023-12-19
+date: 2024-1-19
 cover: nasa-Q1p7bh3SHj8-unsplash.jpg
 tags:
   - example templates

@@ -6,7 +6,7 @@
 
 <style>
 #animated-bg {
-  background: linear-gradient(-45deg, #d2c9c9, #dabfc8, #bea7e5, #bbdde9, #bbdfd7, #bae9bb);
+  background: linear-gradient(-45deg, #d2c9c9, #dabfc8, #d5c9ea, #bbdde9, #bbdfd7, #cde2cd);
   background-size: 400% 400%;
 	animation: gradient 30s ease infinite;
 }

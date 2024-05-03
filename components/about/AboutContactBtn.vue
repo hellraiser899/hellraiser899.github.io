@@ -1,6 +1,6 @@
 <template>
   <div class="mt-8 mb-4">
-    <a href="mailto:brandon.air.web@gmail.com" id="btn-animated">
+    <a href="mailto:abhishekbidhan3@gmail.com" id="btn-animated">
       <svg width="278" height="62">
         <defs>
             <linearGradient id="grad1">

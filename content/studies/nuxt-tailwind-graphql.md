@@ -11,7 +11,7 @@ tags:
   Blog & Portolio Site - Development and Design
 </h2>
 
-<img src="/images/studies/responsive-thumbnail-blog-portfolio.png" alt="" class="mb-6"/>
+<!-- <img src="/images/studies/responsive-thumbnail-blog-portfolio.png" alt="" class="mb-6"/> -->
 
 <h2 class="text-2xl font-semibold mt-8 mb-2">This website was built with:</h2>
 <ul class="list-disc">
@@ -30,7 +30,7 @@ tags:
   <li class="ml-8 py-1">Responsive styles and graphic design</li>
 </ul>
 
-<h2 class="text-2xl font-semibold mt-8">Based on a series by:</h2>
+<!-- <h2 class="text-2xl font-semibold mt-8">Based on a series by:</h2>
 
 <div>
   <a 
@@ -43,17 +43,17 @@ tags:
   </a>
 </div>
 
-<img src="/images/studies/tutorial-blog-screenshot.png" alt="" class="mb-6"/>
+<img src="/images/studies/tutorial-blog-screenshot.png" alt="" class="mb-6"/> -->
 
-<h3 class="text-center">
+<!-- <h3 class="text-center">
   Tutorial published by <a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9gqdtrsPXR3K7nJhvYugyni" target="_blank" class="font-bold hover:underline">Net Ninja</a>
-</h3>
+</h3> -->
 
 <hr class="w-1/2 mx-auto mt-9 mb-8">
 
 <h4 class="text-xl text-center">
   <a 
-    href="https://github.com/BrandonWingerAir/portfolio-nuxt-tailwind-graphql" 
+    href="https://github.com/hellraiser899" 
     aria-label="Dan Vega on YouTube"
     target="_blank"
     class="dark:text-white"

@@ -1,18 +1,18 @@
 <template>
   <p class="text-lg py-2">
-    Full-stack <b>Developer</b> and <b>Designer</b> living in <b class="font-normal md:font-bold">Ontario, Canada</b> with a degree in <b>Enterprise Web & Mobile App Development</b>. 
+    Full-stack <b>Developer</b> and <b>Data Scientist</b> pursuing B.Tech in <b class="font-normal md:font-bold"></b><b>Information technology from IIIT Allahabad</b>. 
   </p>
   <p class="text-lg py-2">
     I am a coder who enjoys learning, implementing best practices, solving complex challenges, quality assurance, creativity and always striving to improve.
   </p>
   <p class="text-lg py-2">
-    I have been developing for 8+ years using my knowledge, research and diverse experience to help clients achieve their goals. 
+    I have been developing for over a year using my knowledge, research. I have a deep seated passion for Artifical Intelligence and Machine Learning.
   </p>
   <p class="text-lg py-2">
-    In my personal life I have two cats and an interest in the arts, media production and technology.
-    I enjoy playing instruments, video games, nature, cooking, staying fit, mountain biking or skateboarding, reading and watching shows or documentaries.
+    In my personal life I love to lift weights and carry an interest in hard sciences and technology.
+    I enjoy reading, sports, video games, nature,staying fit, bikingreading and watching shows or documentaries.
   </p>
   <p class="text-lg font-bold pt-2">
-    I am currently seeking any long-term/permanent for hire opportunities and open to temporary contracts or freelance projects.
+    Mail me at abhishekbidhan3@gmail.com for any hire opportunities. I am also open to temporary contracts or freelance projects.
   </p>
 </template>

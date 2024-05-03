@@ -36,7 +36,7 @@
             <div>
               <MenuButton class="relative flex rounded-md bg-cyan-500 hover:bg-cyan-600 border-1 border-neutral-800 md:border-neutral-700 text-sm focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-gray-800 pt-1 pb-2 px-3">
                 <a href="https://github.com/hellraiser899" target="_blank" class="md:uppercase text-base text-white">
-                  <span class="hidden md:inline">Github</span>
+                  <span class="hidden md:inline">Github<Icon name="mdi:github" size="1.5rem" class="text-amber-900 hover:text-amber-400"/></span>
                 </a>
               </MenuButton>
             </div>

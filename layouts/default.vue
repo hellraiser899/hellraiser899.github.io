@@ -6,6 +6,6 @@
 
 <style>
 #gradient-bg {
-  background: linear-gradient(-45deg,  #673ab7, #23a6d5, #23d5ab);
+  background: linear-gradient(-45deg,  #d8cfe8, #d2e0e5, #d9eae6);
 }
 </style>

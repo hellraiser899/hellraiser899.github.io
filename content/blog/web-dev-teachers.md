@@ -1,7 +1,7 @@
 ---
 title: 10 Web Development Teachers I Recommend
 description: Free + premium tutorials, courses and developer advice resources I have learned from along my developer journey!
-date: 2023-12-31
+date: 2024-1-31
 cover: web-dev-teacher-recommendations.png
 tags:
   - learning resources
@@ -9,7 +9,7 @@ tags:
 
 ![Person on laptop in room](/images/blog/web-dev-teacher-recommendations.png)
 
-**Note: This list is in no particular order.**
+**Note: This list follows no particular order.**
 
 ---
 

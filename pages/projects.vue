@@ -76,5 +76,7 @@ const query = gql`
   }
 `;
 
-const { data } = await useAsyncQuery(query);
+const { data,loading,error } = await useAsyncQuery(query);
+console.log(data.value)
+console.log(error.value)
 </script>

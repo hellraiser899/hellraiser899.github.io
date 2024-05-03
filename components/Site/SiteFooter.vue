@@ -1,15 +1,15 @@
 <template>
   <footer class="bg-neutral-100 dark:bg-gray-800 border-t-2 nav-border-thin border-t-neutral-900 md:border-t-gray-900">
     <section class="h-40 md:h-24 lg:h-20 mx-auto max-w-7xl px-2 sm:px-4 lg:py-2 text-black dark:text-gray-300 flex flex-row items-center grid md:grid-cols-3 grid-rows-2 md:grid-rows-1">
-      <p class="ml-2 lg:ml-3 justify-self-center md:justify-self-start">&copy; Brandon Winger-Air | 2023.</p>
+      <p class="ml-2 lg:ml-3 justify-self-center md:justify-self-start">&copy; Abhishek Bidhan | 2024</p>
 
-      <a href="https://streamelements.com/brandonwinger-air/tip" target="_blank" class="justify-self-center">
+      <a href="https://drive.google.com/file/d/1WvYOzwW8Vw9BI50U1tWxSib2MqpP_qfl/view?usp=sharing" target="_blank" class="justify-self-center">
         <button 
           type="button" 
           id="contribute-btn"
           class="w-42 h-10 bg-cyan-500 hover:bg-cyan-600 dark:bg-gray-400 dark:hover:bg-gray-500 focus:outline-none focus:ring-4 focus:ring-sky-300 font-semibold rounded-md text-sm text-white px-5 py-1 opacity-90 border-slate-600 dark:border-slate-400 mb-5 sm:mb-0 ml-1 lg:ml-0"
         >
-          Support future development <Icon name="uil:coffee" size="1.5rem" class="text-amber-900 hover:text-amber-400"/>
+          RESUME
         </button>
       </a>
 
@@ -25,7 +25,7 @@
 <script setup>
 const links = [
   { name: 'Github', href: 'https://github.com/hellraiser899', icon: 'uil:github' },
-  { name: 'LinkedIn', href: 'https://www.linkedin.com/in/bwingerair/', icon: 'uil:linkedin' }
+  { name: 'LinkedIn', href: 'https://www.linkedin.com/in/abhishek-bidhan-4a4373268/', icon: 'uil:linkedin' }
 ]
 </script>
 
