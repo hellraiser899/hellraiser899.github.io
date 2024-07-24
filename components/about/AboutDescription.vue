@@ -13,6 +13,6 @@
     I enjoy reading, sports, video games, nature,staying fit, bikingreading and watching shows or documentaries.
   </p>
   <p class="text-lg font-bold pt-2">
-    Mail me at abhishekbidhan3@gmail.com for any hire opportunities. I am also open to temporary contracts or freelance projects.
+    Mail me at abhishekbidhan3@gmail.com for any hiring opportunities. I am also open to temporary contracts or freelance projects.
   </p>
 </template>
